@@ -1,0 +1,266 @@
+Program_ID,Canonical_Program_Name,Latitude,Longitude,Geographic_QA_Category,Analysis_Eligibility
+P001,Bergenfield,40.936088622984,-74.007127952765,No additional geographic exception identified,Included - subject to documented QA limitations
+P002,Carlstadt / East Rutherford,40.823986,-74.097918,No additional geographic exception identified,Included - subject to documented QA limitations
+P003,Cresskill,40.9386477,-73.9648895,No additional geographic exception identified,Included - subject to documented QA limitations
+P004,Dumont,40.9445498,-73.9971786,No additional geographic exception identified,Included - subject to documented QA limitations
+P005,Garfield,40.87843,-74.099377,No additional geographic exception identified,Included - subject to documented QA limitations
+P006,Glen Ridge,40.8023486,-74.2052327,No additional geographic exception identified,Included - subject to documented QA limitations
+P007,Hillsdale,41.007685,-74.030058,No additional geographic exception identified,Included - subject to documented QA limitations
+P008,Northern Valley / Norwood,40.9614467,-73.9746988,No additional geographic exception identified,Included - subject to documented QA limitations
+P009,Park Ridge / Emerson,41.03457,-74.042292,No additional geographic exception identified,Included - subject to documented QA limitations
+P010,River Vale,41.007237276531,-74.01130968426,No additional geographic exception identified,Included - subject to documented QA limitations
+P011,Waldwick / Midland Park,41.011763,-74.1328259,No additional geographic exception identified,Included - subject to documented QA limitations
+P012,Westwood / Washington Township,40.9925291,-74.0201866,No additional geographic exception identified,Included - subject to documented QA limitations
+P013,Cliffside Park Royal Raiders,40.8254049,-73.9904208,No additional geographic exception identified,Included - subject to documented QA limitations
+P014,Englewood,40.9056353,-73.9724162,No additional geographic exception identified,Included - subject to documented QA limitations
+P015,Fort Lee,40.8491073,-73.9806978,No additional geographic exception identified,Included - subject to documented QA limitations
+P016,Little Ferry / Ridgefield Park Scarlet Devils,40.856670492889,-74.037912221254,No additional geographic exception identified,Included - subject to documented QA limitations
+P017,Kearny,40.76217,-74.14769,No additional geographic exception identified,Included - subject to documented QA limitations
+P018,Lodi,40.874683,-74.087915,No additional geographic exception identified,Included - subject to documented QA limitations
+P019,Tenafly,40.9304798,-73.968658,No additional geographic exception identified,Included - subject to documented QA limitations
+P020,Weehawken,40.767609980315,-74.023069997329,No additional geographic exception identified,Included - subject to documented QA limitations
+P021,Dennis Township Blue Devils,39.270710205548,-74.86202531285,No additional geographic exception identified,Included - subject to documented QA limitations
+P022,Galloway Renegades,39.4780847,-74.5506418,No additional geographic exception identified,Included - subject to documented QA limitations
+P023,Lower Township Tigers,38.9826099,-74.9040052,No additional geographic exception identified,Included - subject to documented QA limitations
+P024,Northfield Cardinals,39.3722876,-74.5629035,No additional geographic exception identified,Included - subject to documented QA limitations
+P025,Upper Township Indians,39.24649467191,-74.679921192434,No additional geographic exception identified,Included - subject to documented QA limitations
+P026,Egg Harbor Township Eagles,39.371435,-74.628214,No additional geographic exception identified,Included - subject to documented QA limitations
+P027,Middle Township Panthers,39.109064,-74.836793,No additional geographic exception identified,Included - subject to documented QA limitations
+P028,Vineland Blitz,39.4867292,-75.0392843,No additional geographic exception identified,Included - subject to documented QA limitations
+P029,Wildwood Warriors,38.99096,-74.822762,No additional geographic exception identified,Included - subject to documented QA limitations
+P030,Carteret Sportsmen Bulldogs,40.5804918,-74.2275926,No additional geographic exception identified,Included - subject to documented QA limitations
+P031,Edison Jets,40.521349,-74.404653,No additional geographic exception identified,Included - subject to documented QA limitations
+P033,Franklin Warriors,40.5200807,-74.5511243,No additional geographic exception identified,Included - subject to documented QA limitations
+P034,Hamilton Revolution,40.199522,-74.718087,No additional geographic exception identified,Included - subject to documented QA limitations
+P036,Hillsborough Dukes,40.5152172,-74.65686,No additional geographic exception identified,Included - subject to documented QA limitations
+P037,Manville Jr. Mustangs,40.5448435,-74.5983203,No additional geographic exception identified,Included - subject to documented QA limitations
+P038,Metuchen Bulldogs,40.55345,-74.3539983,No additional geographic exception identified,Included - subject to documented QA limitations
+P039,Monroe Wolverines,40.3495318,-74.3923335,No additional geographic exception identified,Included - subject to documented QA limitations
+P040,New Brunswick Raiders,40.4810074,-74.4599806,No additional geographic exception identified,Included - subject to documented QA limitations
+P041,North Brunswick Indians,40.454008,-74.497493,No additional geographic exception identified,Included - subject to documented QA limitations
+P042,Piscataway Braves,40.5466501,-74.4703965,No additional geographic exception identified,Included - subject to documented QA limitations
+P043,Pope John Jr. Lions,41.0262768,-74.6772714,No additional geographic exception identified,Included - subject to documented QA limitations
+P044,South Brunswick Vikings,40.3514219,-74.5499212,No additional geographic exception identified,Included - subject to documented QA limitations
+P045,South River Knights,40.440669,-74.385378,No additional geographic exception identified,Included - subject to documented QA limitations
+P046,Watchung Hills Wolverines,40.6396207,-74.4884117,No additional geographic exception identified,Included - subject to documented QA limitations
+P047,Woodbridge Broncos,40.566725516956,-74.286132759548,No additional geographic exception identified,Included - subject to documented QA limitations
+P049,Absecon Blue Devils,39.427492,-74.504809,No additional geographic exception identified,Included - subject to documented QA limitations
+P050,Hammonton Hawks,39.650287,-74.794989,No additional geographic exception identified,Included - subject to documented QA limitations
+P051,Linwood Panthers,39.3468598,-74.5733658,No additional geographic exception identified,Included - subject to documented QA limitations
+P052,Ventnor Pirates,39.346181819842,-74.477438467777,No additional geographic exception identified,Included - subject to documented QA limitations
+P053,Egg Harbor City,39.5298469,-74.6405619,No additional geographic exception identified,Included - subject to documented QA limitations
+P054,Buena,39.4890748,-74.8782863,No additional geographic exception identified,Included - subject to documented QA limitations
+P055,Brigantine Rams,39.3900258,-74.3937325,No additional geographic exception identified,Included - subject to documented QA limitations
+P056,Ocean City Raiders,39.277804,-74.563817,No additional geographic exception identified,Included - subject to documented QA limitations
+P057,Boonton / Mountain Lakes,40.8942667,-74.4324713,No additional geographic exception identified,Included - subject to documented QA limitations
+P058,Denville,40.8603207,-74.5029096,No additional geographic exception identified,Included - subject to documented QA limitations
+P059,Hackettstown,40.8429379,-74.8291266,No additional geographic exception identified,Included - subject to documented QA limitations
+P060,High Point,41.2214895,-74.6467627,No additional geographic exception identified,Included - subject to documented QA limitations
+P061,Hopatcong,40.9317075,-74.6704657,No additional geographic exception identified,Included - subject to documented QA limitations
+P062,Jefferson,40.961894565295,-74.598241188051,No additional geographic exception identified,Included - subject to documented QA limitations
+P063,Kittatinny,41.034749936905,-74.81644675328,No additional geographic exception identified,Included - subject to documented QA limitations
+P064,Lenape Valley,40.9723273,-74.7159358,No additional geographic exception identified,Included - subject to documented QA limitations
+P065,Long Valley,40.7975038,-74.7926052,No additional geographic exception identified,Included - subject to documented QA limitations
+P066,Madison,40.7653913,-74.4109327,No additional geographic exception identified,Included - subject to documented QA limitations
+P067,Mount Olive,40.8666815,-74.7257878,No additional geographic exception identified,Included - subject to documented QA limitations
+P068,Newton,41.0598413,-74.7493562,No additional geographic exception identified,Included - subject to documented QA limitations
+P069,Parsippany Hills,40.8757807,-74.4475587,No additional geographic exception identified,Included - subject to documented QA limitations
+P070,Randolph,40.8383603,-74.5725117,No additional geographic exception identified,Included - subject to documented QA limitations
+P071,Ringwood,41.1294225,-74.2651052,No additional geographic exception identified,Included - subject to documented QA limitations
+P072,Rockaway Township Rockets,40.9081153,-74.5349081,No additional geographic exception identified,Included - subject to documented QA limitations
+P073,Somerset Hills,40.7186805,-74.5692273,No additional geographic exception identified,Included - subject to documented QA limitations
+P074,Sparta,41.0473935,-74.625132,No additional geographic exception identified,Included - subject to documented QA limitations
+P075,Twin Boro,40.780839,-74.7079623,No additional geographic exception identified,Included - subject to documented QA limitations
+P076,Vernon,41.22226,-74.4748589,No additional geographic exception identified,Included - subject to documented QA limitations
+P077,Roxbury,40.8617836,-74.6407919,No additional geographic exception identified,Included - subject to documented QA limitations
+P078,Wallkill Valley,41.1368976,-74.6006424,No additional geographic exception identified,Included - subject to documented QA limitations
+P079,Junior Knights,40.8948428,-74.580886,No additional geographic exception identified,Included - subject to documented QA limitations
+P080,Wayne Panthers,40.9645141,-74.233809,No additional geographic exception identified,Included - subject to documented QA limitations
+P081,Elmwood Park Bombers,40.8909845,-74.1277584,No additional geographic exception identified,Included - subject to documented QA limitations
+P082,New Milford Knights,40.923847440129,-74.027726479819,No additional geographic exception identified,Included - subject to documented QA limitations
+P083,Saddle Brook Falcons,40.8995858,-74.0977693,No additional geographic exception identified,Included - subject to documented QA limitations
+P084,Hasbrouck Heights Aviators,40.8543152,-74.0741018,No additional geographic exception identified,Included - subject to documented QA limitations
+P085,Wood-Ridge Blue Devils,40.848933,-74.080381,No additional geographic exception identified,Included - subject to documented QA limitations
+P086,Manchester Falcons,40.9413871,-74.1823759,No additional geographic exception identified,Included - subject to documented QA limitations
+P087,Secaucus Patriots,40.7852634,-74.0546022,No additional geographic exception identified,Included - subject to documented QA limitations
+P088,Harrison Blue Tide,40.750014,-74.148434,No additional geographic exception identified,Included - subject to documented QA limitations
+P089,North Arlington Vikings,40.7943224,-74.1402268,No additional geographic exception identified,Included - subject to documented QA limitations
+P090,Rutherford Bulldogs,40.8405623,-74.1203946,No additional geographic exception identified,Included - subject to documented QA limitations
+P091,Totowa / Woodland Park Tigers,40.9101588,-74.2118949,No additional geographic exception identified,Included - subject to documented QA limitations
+P092,Lyndhurst Bears,40.8092922,-74.1247361,No additional geographic exception identified,Included - subject to documented QA limitations
+P093,Fair Lawn,40.946732,-74.1401541,No additional geographic exception identified,Included - subject to documented QA limitations
+P094,Franklin Lakes War Eagles,41.0247359,-74.1988768,No additional geographic exception identified,Included - subject to documented QA limitations
+P095,Hawthorne,40.943558072179,-74.161327981465,No additional geographic exception identified,Included - subject to documented QA limitations
+P096,Mahwah,41.077139,-74.1923083,No additional geographic exception identified,Included - subject to documented QA limitations
+P097,Montville,40.9369595,-74.3428853,No additional geographic exception identified,Included - subject to documented QA limitations
+P098,Northern Highlands,41.0358725,-74.1438221,No additional geographic exception identified,Included - subject to documented QA limitations
+P099,Oakland,41.0215725,-74.2470591,No additional geographic exception identified,Included - subject to documented QA limitations
+P100,Paramus,40.92711,-74.061443,No additional geographic exception identified,Included - subject to documented QA limitations
+P101,Ramsey,41.072651,-74.1286164,No additional geographic exception identified,Included - subject to documented QA limitations
+P102,Ridgewood,40.982608,-74.109225,No additional geographic exception identified,Included - subject to documented QA limitations
+P103,River Dell,40.9513278,-74.0373792,No additional geographic exception identified,Included - subject to documented QA limitations
+P104,Wayne PAL,40.9645141,-74.233809,No additional geographic exception identified,Included - subject to documented QA limitations
+P105,West Milford,41.077231,-74.3831897,No additional geographic exception identified,Included - subject to documented QA limitations
+P106,Wyckoff,41.0084815,-74.1706915,No additional geographic exception identified,Included - subject to documented QA limitations
+P107,Bayshore Bucs,40.4286545,-74.1975665,No additional geographic exception identified,Included - subject to documented QA limitations
+P108,Howell Lions,40.1722306,-74.1780508,No additional geographic exception identified,Included - subject to documented QA limitations
+P109,Lacey Revolution,39.821728,-74.183471,No additional geographic exception identified,Included - subject to documented QA limitations
+P110,Lakewood Pioneers,40.1079087,-74.1839686,No additional geographic exception identified,Included - subject to documented QA limitations
+P111,Ocean Dolphins,40.2684858,-74.0304457,No additional geographic exception identified,Included - subject to documented QA limitations
+P112,St. James Royals,40.3360739,-74.0566333,No additional geographic exception identified,Included - subject to documented QA limitations
+P113,Toms River Seahawks,39.9550896,-74.1968863,No additional geographic exception identified,Included - subject to documented QA limitations
+P114,West Ward Hawks,40.74493307655,-74.215780847806,No additional geographic exception identified,Included - subject to documented QA limitations
+P115,Irvington Golden Knights,40.7302763,-74.2306944,No additional geographic exception identified,Included - subject to documented QA limitations
+P116,Central Ward Cougars,40.7107081,-74.2222613,No additional geographic exception identified,Included - subject to documented QA limitations
+P117,Jackie Robinson Bears,40.7107081,-74.2222613,No additional geographic exception identified,Included - subject to documented QA limitations
+P118,Southeast Stallions,40.7194581,-74.191749,No additional geographic exception identified,Included - subject to documented QA limitations
+P119,Basking Ridge Red Devils,40.6950574,-74.5463232,No additional geographic exception identified,Included - subject to documented QA limitations
+P120,Berkeley Heights Highlanders,40.6858748,-74.3891454,No additional geographic exception identified,Included - subject to documented QA limitations
+P121,Bloomfield Bengals,40.8029506,-74.190432,No additional geographic exception identified,Included - subject to documented QA limitations
+P122,Bridgewater Panthers,40.593784,-74.631952,No additional geographic exception identified,Included - subject to documented QA limitations
+P123,Central YFB,40.516713592464,-74.852632654297,No additional geographic exception identified,Included - subject to documented QA limitations
+P124,Chatham Cougars,40.7420931,-74.4135136,No additional geographic exception identified,Included - subject to documented QA limitations
+P125,Clark Crusaders,40.6233058,-74.3118235,No additional geographic exception identified,Included - subject to documented QA limitations
+P126,Cranford Cougars,40.646702,-74.291818,No additional geographic exception identified,Included - subject to documented QA limitations
+P127,Hanover Park Falcons,40.785015,-74.406758,No additional geographic exception identified,Included - subject to documented QA limitations
+P128,Hillsborough Raiders,40.4976812,-74.6544072,No additional geographic exception identified,Included - subject to documented QA limitations
+P129,Montgomery Cougars,40.417306287409,-74.702292468085,No additional geographic exception identified,Included - subject to documented QA limitations
+P130,Morristown Jr. Colonials,40.811599088279,-74.505867284958,No additional geographic exception identified,Included - subject to documented QA limitations
+P131,New Providence Pioneers,40.703315,-74.411872,No additional geographic exception identified,Included - subject to documented QA limitations
+P132,North Hunterdon Jr. Lions,40.6281912,-74.883525,No additional geographic exception identified,Included - subject to documented QA limitations
+P133,Old Bridge Rebels,40.3960762,-74.3256559,No additional geographic exception identified,Included - subject to documented QA limitations
+P134,Perth Amboy Red Raiders,40.523762563487,-74.26999541664,No additional geographic exception identified,Included - subject to documented QA limitations
+P135,Scotch Plains-Fanwood Raiders,40.6526712,-74.3854601,No additional geographic exception identified,Included - subject to documented QA limitations
+P136,Somerville-Branchburg Jr. Pioneers,40.5789668,-74.6130641,No additional geographic exception identified,Included - subject to documented QA limitations
+P137,South Plainfield Tigers,40.5675353,-74.405876,No additional geographic exception identified,Included - subject to documented QA limitations
+P138,Summit Hilltoppers,40.7314879,-74.3708907,No additional geographic exception identified,Included - subject to documented QA limitations
+P139,Tri-Boro Bears,40.679813,-74.293737,No additional geographic exception identified,Included - subject to documented QA limitations
+P140,West Orange Mustangs,40.8070445,-74.2601472,No additional geographic exception identified,Included - subject to documented QA limitations
+P141,Westfield Blue Devils,40.6394014,-74.3431966,No additional geographic exception identified,Included - subject to documented QA limitations
+P142,Allentown/Millstone Redbirds,40.1748068,-74.5882309,No additional geographic exception identified,Included - subject to documented QA limitations
+P143,Asbury Park Blue Bishops,40.2278351,-74.0132263,No additional geographic exception identified,Included - subject to documented QA limitations
+P144,Barnegat Jr. Bengals,39.7690207,-74.231965,No additional geographic exception identified,Included - subject to documented QA limitations
+P145,Berkeley Golden Eagles,39.888372770459,-74.198812020104,No additional geographic exception identified,Included - subject to documented QA limitations
+P146,Brick Football & Cheer,40.0456134,-74.1395616,No additional geographic exception identified,Included - subject to documented QA limitations
+P147,Colts Neck Cougars,40.2974906,-74.207998,No additional geographic exception identified,Included - subject to documented QA limitations
+P148,Freehold Revolution,40.2854058,-74.2594795,No additional geographic exception identified,Included - subject to documented QA limitations
+P149,Hamilton Rogue One,40.2383177,-74.6181746,No additional geographic exception identified,Included - subject to documented QA limitations
+P150,Hazlet Hawks,40.417873,-74.186374,No additional geographic exception identified,Included - subject to documented QA limitations
+P151,Holmdel Hornets,40.3791823,-74.175794,No additional geographic exception identified,Included - subject to documented QA limitations
+P152,Howell Rebels,40.171563,-74.181633,No additional geographic exception identified,Included - subject to documented QA limitations
+P153,Hunterdon Huskies,40.667806,-74.893939,No additional geographic exception identified,Included - subject to documented QA limitations
+P154,Jackson Jaguars,40.116529,-74.2874658,No additional geographic exception identified,Included - subject to documented QA limitations
+P155,Keansburg Titans,40.4418625,-74.1238082,No additional geographic exception identified,Included - subject to documented QA limitations
+P156,Lacey Lions,39.821728,-74.183471,No additional geographic exception identified,Included - subject to documented QA limitations
+P157,Long Branch,40.322982,-73.986218,No additional geographic exception identified,Included - subject to documented QA limitations
+P158,Manalapan Braves,40.290638450668,-74.340604401352,No additional geographic exception identified,Included - subject to documented QA limitations
+P159,Manasquan Warriors,40.1288826,-74.0477218,No additional geographic exception identified,Included - subject to documented QA limitations
+P160,Manchester Hawks,40.0148287,-74.2550161,No additional geographic exception identified,Included - subject to documented QA limitations
+P161,Marlboro Mustangs,40.3280874,-74.2697262,No additional geographic exception identified,Included - subject to documented QA limitations
+P162,Matawan Huskies,40.4103434,-74.223116,No additional geographic exception identified,Included - subject to documented QA limitations
+P163,Middlesex Blue Jays,40.582092,-74.495348,No additional geographic exception identified,Included - subject to documented QA limitations
+P164,Middletown Eagles,40.4109875,-74.0562886,No additional geographic exception identified,Included - subject to documented QA limitations
+P165,Monmouth Falcons,40.2580043,-74.0781435,No additional geographic exception identified,Included - subject to documented QA limitations
+P166,Neptune Fliers,40.2180148,-74.0432686,No additional geographic exception identified,Included - subject to documented QA limitations
+P167,Ocean Spartans,40.2684858,-74.0304457,No additional geographic exception identified,Included - subject to documented QA limitations
+P168,Pinelands Wildcats,39.6203,-74.3571,No additional geographic exception identified,Included - subject to documented QA limitations
+P169,Plainfield Vikings,40.6293776,-74.4061777,No additional geographic exception identified,Included - subject to documented QA limitations
+P170,Point Pleasant Panthers,40.0789063,-74.0720421,No additional geographic exception identified,Included - subject to documented QA limitations
+P171,Red Bank Buccaneers,40.3376429,-74.0681367,No additional geographic exception identified,Included - subject to documented QA limitations
+P172,River Plaza Chargers,40.359458360057,-74.096193552993,Provisional field location,Included - subject to documented QA limitations
+P173,Rumson-Fair Haven Bulldogs,40.3696933,-74.0026229,No additional geographic exception identified,Included - subject to documented QA limitations
+P174,Sayreville Jr. Bombers,40.462094,-74.3652443,No additional geographic exception identified,Included - subject to documented QA limitations
+P175,Shore Blue Devils,40.295994402979,-74.022956925455,No additional geographic exception identified,Included - subject to documented QA limitations
+P176,Southern Rams,39.6954186,-74.2700365,No additional geographic exception identified,Included - subject to documented QA limitations
+P177,St. Barts Buffalos,40.4087172,-74.4473645,No additional geographic exception identified,Included - subject to documented QA limitations
+P178,Toms River Warriors,39.9678861,-74.1430967,No additional geographic exception identified,Included - subject to documented QA limitations
+P179,Wall Knights,40.1582673,-74.0751274,Address-level location accepted,Included - subject to documented QA limitations
+P180,East Orange Rams,40.7699543,-74.2090326,No additional geographic exception identified,Included - subject to documented QA limitations
+P181,Elizabeth Minutemen,40.6452095,-74.2110166,Organization eligibility unresolved,Excluded pending organization verification
+P182,Hillside Jr. Comets,40.6873,-74.2255,Facility-level location verified,Included - subject to documented QA limitations
+P183,Linden Tigers,40.630451,-74.264347,No additional geographic exception identified,Included - subject to documented QA limitations
+P184,Montclair Bulldogs,40.8248538,-74.2054812,No additional geographic exception identified,Included - subject to documented QA limitations
+P185,Orange Bengals,40.7735942,-74.236646,No additional geographic exception identified,Included - subject to documented QA limitations
+P186,Rahway Chiefs,40.5958461,-74.2744381,No additional geographic exception identified,Included - subject to documented QA limitations
+P187,Roselle Rams,40.6468781,-74.2563077,No additional geographic exception identified,Included - subject to documented QA limitations
+P188,Union Rams,40.70490399874,-74.2786868635,No additional geographic exception identified,Included - subject to documented QA limitations
+P189,Bloomingdale / Butler Bulldogs,40.995457,-74.3394622,No additional geographic exception identified,Included - subject to documented QA limitations
+P190,Glen Rock,40.9698249,-74.1279983,No additional geographic exception identified,Included - subject to documented QA limitations
+P191,Hanover Tigers,40.8325105,-74.4089603,No additional geographic exception identified,Included - subject to documented QA limitations
+P192,Kinnelon Colts,40.9959637,-74.3785109,No additional geographic exception identified,Included - subject to documented QA limitations
+P193,Lincoln Park / Boonton Raiders,40.9208755,-74.3044236,No additional geographic exception identified,Included - subject to documented QA limitations
+P194,Little Falls Hornets,40.886174221936,-74.221428909442,No additional geographic exception identified,Included - subject to documented QA limitations
+P195,Pequannock Panthers,40.9599614,-74.3061184,No additional geographic exception identified,Included - subject to documented QA limitations
+P196,Pompton Lakes / Riverdale Cardinals,40.990403313651,-74.293069119702,No additional geographic exception identified,Included - subject to documented QA limitations
+P197,Wanaque Warriors,41.058086,-74.286654,No additional geographic exception identified,Included - subject to documented QA limitations
+P198,Belleville,40.8034428,-74.161566,No additional geographic exception identified,Included - subject to documented QA limitations
+P199,Caldwell,40.842354,-74.2967831,No additional geographic exception identified,Included - subject to documented QA limitations
+P200,Cedar Grove,40.8478754,-74.2333579,No additional geographic exception identified,Included - subject to documented QA limitations
+P201,Fairfield,40.8877497,-74.3002809,No additional geographic exception identified,Included - subject to documented QA limitations
+P202,Nutley,40.811133,-74.140895,No additional geographic exception identified,Included - subject to documented QA limitations
+P203,Verona,40.8351901,-74.2567578,No additional geographic exception identified,Included - subject to documented QA limitations
+P204,West Essex,40.8716773,-74.2741743,No additional geographic exception identified,Included - subject to documented QA limitations
+P205,Atlantic City Dolphins,39.374791,-74.448745,No additional geographic exception identified,Included - subject to documented QA limitations
+P206,Bridgeton Bulldogs,39.4355392,-75.2467524,No additional geographic exception identified,Included - subject to documented QA limitations
+P207,Camden Predators,39.9533308,-75.0840943,No additional geographic exception identified,Included - subject to documented QA limitations
+P208,Centerville Simbas,39.924087,-75.096837,No additional geographic exception identified,Included - subject to documented QA limitations
+P209,Clayton Clippers,39.654994,-75.073605,No additional geographic exception identified,Included - subject to documented QA limitations
+P210,Delsea Knights,39.6022754,-75.0494817,No additional geographic exception identified,Included - subject to documented QA limitations
+P211,Deptford Spartans,39.8123745,-75.1085195,No additional geographic exception identified,Included - subject to documented QA limitations
+P212,Glassboro Bulldogs,39.692913745387,-75.097059260633,No additional geographic exception identified,Included - subject to documented QA limitations
+P213,Gloucester Township Lions,39.788223989209,-75.080175844524,No additional geographic exception identified,Included - subject to documented QA limitations
+P214,Holly City,39.4184096,-75.0427467,No additional geographic exception identified,Included - subject to documented QA limitations
+P215,Kingsway Dragons,39.787096403257,-75.20514789509,No additional geographic exception identified,Included - subject to documented QA limitations
+P216,Mays Landing Lakers,39.4534145,-74.7178116,No additional geographic exception identified,Included - subject to documented QA limitations
+P217,Monroe Braves,39.6700967,-75.018353,No additional geographic exception identified,Included - subject to documented QA limitations
+P218,Paulsboro Red Raiders,39.8486399,-75.2381746,No additional geographic exception identified,Included - subject to documented QA limitations
+P219,Penns Grove Twins,39.7201694,-75.4731499,No additional geographic exception identified,Included - subject to documented QA limitations
+P220,Pennsville Eagles,39.6327151,-75.5346828,No additional geographic exception identified,Included - subject to documented QA limitations
+P221,Pleasantville Jokers,39.3857281,-74.5413735,No additional geographic exception identified,Included - subject to documented QA limitations
+P222,Salem Rams,39.5649301,-75.469448,No additional geographic exception identified,Included - subject to documented QA limitations
+P223,Sterling Knights,39.836442,-75.024716,No additional geographic exception identified,Included - subject to documented QA limitations
+P224,Vineland Youth Football,39.5526781,-75.0519792,No additional geographic exception identified,Included - subject to documented QA limitations
+P225,Whitman Park Tigers,39.924087,-75.096837,No additional geographic exception identified,Included - subject to documented QA limitations
+P226,Winslow Elite,39.7322741,-74.9906739,No additional geographic exception identified,Included - subject to documented QA limitations
+P227,Woodbury Steelers,39.8439512,-75.1417291,No additional geographic exception identified,Included - subject to documented QA limitations
+P228,Burlington City Blue Devils,40.0725932,-74.857637,No additional geographic exception identified,Included - subject to documented QA limitations
+P229,Burlington Township Falcons,40.067523,-74.82443,No additional geographic exception identified,Included - subject to documented QA limitations
+P230,Cherry Hill Knights,39.920211,-75.0273656,No additional geographic exception identified,Included - subject to documented QA limitations
+P231,Cinnaminson,40.0035129,-74.997858,No additional geographic exception identified,Included - subject to documented QA limitations
+P232,Clearview,39.7465626,-75.2099078,No additional geographic exception identified,Included - subject to documented QA limitations
+P233,Delran,40.012054,-74.931218,No additional geographic exception identified,Included - subject to documented QA limitations
+P234,Ewing,40.2717327,-74.8007403,No additional geographic exception identified,Included - subject to documented QA limitations
+P235,Gloucester City,39.8980323,-75.1148546,No additional geographic exception identified,Included - subject to documented QA limitations
+P236,Haddonfield,39.8947818,-75.0286295,No additional geographic exception identified,Included - subject to documented QA limitations
+P237,Lawnside,39.8647538,-75.0255565,No additional geographic exception identified,Included - subject to documented QA limitations
+P238,Maple Shade,39.962247,-75.013941,No additional geographic exception identified,Included - subject to documented QA limitations
+P239,Marlton,39.8839004,-74.8796245,No additional geographic exception identified,Included - subject to documented QA limitations
+P240,Medford,39.9195129,-74.8557699,No additional geographic exception identified,Included - subject to documented QA limitations
+P241,Mount Laurel,39.951695,-74.917096,No additional geographic exception identified,Included - subject to documented QA limitations
+P242,Overbrook,39.774439656071,-74.974371080741,No additional geographic exception identified,Included - subject to documented QA limitations
+P243,Pennsauken,39.9402411,-75.0716704,No additional geographic exception identified,Included - subject to documented QA limitations
+P244,Pittsgrove,39.549886,-75.125719,No additional geographic exception identified,Included - subject to documented QA limitations
+P245,Rancocas Valley Hurricanes,39.96349,-74.7966,No additional geographic exception identified,Included - subject to documented QA limitations
+P246,Seneca,39.8546223,-74.7196713,No additional geographic exception identified,Included - subject to documented QA limitations
+P247,Staley Park,39.9185138,-75.1157157,No additional geographic exception identified,Included - subject to documented QA limitations
+P248,Trenton,40.237006033439,-74.758606624181,No additional geographic exception identified,Included - subject to documented QA limitations
+P249,Voorhees,39.8281888,-74.9435902,No additional geographic exception identified,Included - subject to documented QA limitations
+P250,Washington Township,39.747269255923,-75.10548173222,No additional geographic exception identified,Included - subject to documented QA limitations
+P251,West Deptford,39.859388,-75.205449,No additional geographic exception identified,Included - subject to documented QA limitations
+P252,Woodstown,39.6541281,-75.3323772,No additional geographic exception identified,Included - subject to documented QA limitations
+P253,Bordentown Bulldogs,40.1292625,-74.7094292,No additional geographic exception identified,Included - subject to documented QA limitations
+P254,Florence Flashes,40.118793,-74.8099585,No additional geographic exception identified,Included - subject to documented QA limitations
+P255,Northern Burlington Greyhounds,40.087282583158,-74.685687103628,No additional geographic exception identified,Included - subject to documented QA limitations
+P256,Lawrence Cardinals,40.274340049491,-74.745676636112,No additional geographic exception identified,Included - subject to documented QA limitations
+P257,Hopewell Valley Bulldogs,40.3094673,-74.8144176,No additional geographic exception identified,Included - subject to documented QA limitations
+P258,New Egypt Warriors,40.0652337,-74.530747,No additional geographic exception identified,Included - subject to documented QA limitations
+P259,Pemberton Hornets,39.9687898,-74.6630704,No additional geographic exception identified,Included - subject to documented QA limitations
+P260,Riverside Rams,40.0347726,-74.9556154,No additional geographic exception identified,Included - subject to documented QA limitations
+P261,Haddon Township Hawks,39.899355829647,-75.051956491103,No additional geographic exception identified,Included - subject to documented QA limitations
+P262,Bellmawr Purple Eagles,39.8652725,-75.0947156,No additional geographic exception identified,Included - subject to documented QA limitations
+P263,Palmyra Panthers,40.000549918041,-75.027742094839,No additional geographic exception identified,Included - subject to documented QA limitations
+P264,Oaklyn Cougars,39.900362,-75.083897,No additional geographic exception identified,Included - subject to documented QA limitations
+P265,Westville Gators,39.861308,-75.120733,No additional geographic exception identified,Included - subject to documented QA limitations
+P266,Moorestown Junior Quakers,39.9764863,-74.9842934,No additional geographic exception identified,Included - subject to documented QA limitations
+P267,Pitman Panthers,39.7326022,-75.1334044,No additional geographic exception identified,Included - subject to documented QA limitations
+P268,Lindenwold Chargers,39.819836,-74.976028,No additional geographic exception identified,Included - subject to documented QA limitations
